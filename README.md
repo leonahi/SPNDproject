@@ -1,5 +1,5 @@
-mario - On-line Fault Detection and Diagnoses of SPNDs
-=====
+SPND Project - On-line Fault Detection and Diagnoses of SPNDs
+============
 
 Contains source code related to:
 1. Cluster building
