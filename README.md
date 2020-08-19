@@ -8,5 +8,3 @@ Contains source code related to:
 4. Error detection
 5. On-line Error detection
 6. Parallel model building
-
-Almost all source codes are under development. 
